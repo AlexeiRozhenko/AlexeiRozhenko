@@ -1,5 +1,7 @@
 ## Hi, I'm Alexei 👋👨🏻‍💻
 
+[![Header](https://raw.githubusercontent.com/AlexeiRozhenko/master/GitHub_icon-1.png "Header")]
+
 After realizing that a global AI-tization is inevitable yet a thrilling journey, I became a Data Scientist. 
 ### About me:
 1. Experience of working as an independent DS researcher for **more than 1.5 years**
