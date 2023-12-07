@@ -1,6 +1,6 @@
 ## Hi, I'm Alexei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-[![Header](https://raw.githubusercontent.com/AlexeiRozhenko/master/GitHub_icon-1.png "Header")]
+![Header](http://https://github.com/AlexeiRozhenko/AlexeiRozhenko/GitHub_icon-1.png)
 
 After realizing that a global AI-tization is inevitable yet a thrilling journey, I became a Data Scientist. 
 ### About me:
