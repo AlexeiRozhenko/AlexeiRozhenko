@@ -1,4 +1,4 @@
-## Hi, I'm Alexei 👋👨🏻‍💻
+## Hi, I'm Alexei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 [![Header](https://raw.githubusercontent.com/AlexeiRozhenko/master/GitHub_icon-1.png "Header")]
 
