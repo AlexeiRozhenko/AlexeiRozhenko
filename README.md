@@ -10,10 +10,10 @@
 
 ### My stack
 
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Jupyter Notebook" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Lab" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/09/HeuristicLab_Logo.png" /> 
-<img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" /> 
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Jupyter Notebook" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="SQLite" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="TensorFlow" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Lab" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/09/HeuristicLab_Logo.png" /> 
+<img align="left" alt="Tableau" width="35px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" /> 
+<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
