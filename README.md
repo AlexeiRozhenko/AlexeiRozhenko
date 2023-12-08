@@ -14,6 +14,6 @@ After realizing that a global AI-tization is inevitable yet a thrilling journey,
 <img align="left" alt="Jupyter Notebook" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" /> 
+<img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software.svg" /> 
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
