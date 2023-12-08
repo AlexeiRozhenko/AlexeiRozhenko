@@ -8,7 +8,7 @@
 3. Making the ML-based web application for **China Oilfield Services Limited (COSL)** ✨
 4. After realizing that a global AI-tization is inevitable yet a thrilling journey, I became a Data Scientist 👨‍💻
 
-### My stack
+### My stack:
 
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Jupyter Notebook" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
