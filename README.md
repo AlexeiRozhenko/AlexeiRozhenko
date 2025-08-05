@@ -3,6 +3,6 @@
 ![Header](GitHub_icon-1.png)
 
 ### About me:
-- ML researcher for ** 1 year** ✨
+- ML researcher for **1 year** ✨
 - Having **h-index 4** with top-tier Q1/Q2 papers 💡
-- 我会说中文 🇨🇳
+- 我会说**中文** 🇨🇳
